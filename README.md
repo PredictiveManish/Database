@@ -1,0 +1,2 @@
+This repository is for a big database where there'll be different topics covering sentences like Politics, Education, Current Affairs, Engineering, Medical etc. and it'll be translated into different Indian languages.
+Here, only English Sentences will be saved and translations will be under privacy as it'll be only allowed for Indian Research labs for building good products and for research purpose.
